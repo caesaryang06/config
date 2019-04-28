@@ -17,4 +17,4 @@ server:
   port: 8090
 
 env:
-  dev1 
+  dev2 
