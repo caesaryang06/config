@@ -17,4 +17,8 @@ server:
   port: 8090
 
 env:
-  dev2 
+  dev2
+
+girl:
+  name: xiaoxiao
+  age: 18
